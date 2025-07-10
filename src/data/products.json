@@ -1,0 +1,103 @@
+{
+  "categories": [
+    "Bio-Fungicides",
+    "Bio-Fertilizer",
+    "Bio-Pesticides",
+    "Microbial Solution",
+    "Plant Growth Regulators",
+    "Plant Protectants",
+    "Nutrient Solutions",
+    "Organic Fertilizers",
+    "Special Products"
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "BioGuard Fungicide",
+      "description": "Effective biological fungicide for common plant diseases",
+      "price": 1299,
+      "category": "Bio-Fungicides",
+      "image": "https://images.unsplash.com/photo-1586771107445-d3ca888129ce",
+      "size": "1 Liter",
+      "rating": 4.8,
+      "stock": 50
+    },
+    {
+      "id": 2,
+      "name": "Organic Growth Booster",
+      "description": "Natural plant growth promoter for all crops",
+      "price": 899,
+      "category": "Bio-Fertilizer",
+      "image": "https://images.unsplash.com/photo-1605000797499-95a51c5269ae",
+      "size": "500ml",
+      "rating": 4.6,
+      "stock": 75
+    },
+    {
+      "id": 3,
+      "name": "EcoShield Pesticide",
+      "description": "Organic pest control solution",
+      "price": 1199,
+      "category": "Bio-Pesticides",
+      "image": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3",
+      "size": "1 Liter",
+      "rating": 4.7,
+      "stock": 40
+    },
+    {
+      "id": 4,
+      "name": "Microbial Soil Enhancer",
+      "description": "Improves soil health and nutrient absorption",
+      "price": 1599,
+      "category": "Microbial Solution",
+      "image": "https://images.unsplash.com/photo-1518977676601-b53f82aba655",
+      "size": "2kg",
+      "rating": 4.9,
+      "stock": 30
+    },
+    {
+      "id": 5,
+      "name": "Plant Vitality Regulator",
+      "description": "Enhances plant growth and yield",
+      "price": 1499,
+      "category": "Plant Growth Regulators",
+      "image": "https://images.unsplash.com/photo-1517191434949-5e90cd67d2b6",
+      "size": "500ml",
+      "rating": 4.5,
+      "stock": 60
+    },
+    {
+      "id": 6,
+      "name": "Crop Shield Protectant",
+      "description": "Protects against environmental stressors",
+      "price": 1099,
+      "category": "Plant Protectants",
+      "image": "https://images.unsplash.com/photo-1518977676601-b53f82aba655",
+      "size": "1 Liter",
+      "rating": 4.4,
+      "stock": 45
+    },
+    {
+      "id": 7,
+      "name": "NutriMax Solution",
+      "description": "Complete nutrient package for plants",
+      "price": 1799,
+      "category": "Nutrient Solutions",
+      "image": "https://images.unsplash.com/photo-1585336261022-680e295ce3fe",
+      "size": "5kg",
+      "rating": 4.8,
+      "stock": 25
+    },
+    {
+      "id": 8,
+      "name": "Pure Organic Fertilizer",
+      "description": "100% organic fertilizer for all crops",
+      "price": 999,
+      "category": "Organic Fertilizers",
+      "image": "https://images.unsplash.com/photo-1517191434949-5e90cd67d2b6",
+      "size": "5kg",
+      "rating": 4.7,
+      "stock": 55
+    }
+  ]
+}
