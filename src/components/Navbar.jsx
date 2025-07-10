@@ -20,29 +20,21 @@ const navItems = [
   {
     label: "About",
     path: "/about",
-    submenu: [
-      { label: "Our Story", path: "/about#story" },
-      { label: "Mission & Vision", path: "/about#mission" },
-      { label: "Leadership", path: "/about#leadership" },
-    ],
-  },
-  {
-    label: "R & D",
-    path: "/research",
   },
   {
     label: "Products",
-    submenu: [
-      { label: "All Products", path: "/products" },
-      { label: "Bio-Fungicides", path: "/category/bio-fungicides" },
-      { label: "Bio-Fertilizers", path: "/category/bio-fertilizer" },
-      { label: "Bio-Pesticides", path: "/category/bio-pesticides" },
-      { label: "Organic Inputs", path: "/category/organic-inputs" },
-    ],
+    path: "/products",
+    // submenu: [
+    //   { label: "All Products", path: "/products" },
+    //   { label: "Bio-Fungicides", path: "/category/bio-fungicides" },
+    //   { label: "Bio-Fertilizers", path: "/category/bio-fertilizer" },
+    //   { label: "Bio-Pesticides", path: "/category/bio-pesticides" },
+    //   { label: "Organic Inputs", path: "/category/organic-inputs" },
+    // ],
   },
   {
-    label: "Gallery",
-    path: "/gallery",
+    label: "Blog",
+    path: "/blogs",
   },
   {
     label: "Contact",

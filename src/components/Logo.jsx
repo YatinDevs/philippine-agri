@@ -18,7 +18,7 @@ const Logo = () => {
         <img
           src={agriLogo}
           alt="Philippine Agro"
-          className="w-52 h-18 md:w-80  md:h-24"
+          className="w-52 h-18 md:w-72  md:h-18"
         />
       </motion.div>
     </motion.div>
